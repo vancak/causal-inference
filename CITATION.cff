@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Causal Inference"
+message: "If you use these slides, please cite them as below."
+authors:
+  - family-names: Vancak
+    given-names: Valentin
+    orcid: "https://orcid.org/0000-0001-8732-7353"   
+date-released: "2025-02-20"                          
+version: "2025.02.20"                                    
+preferred-citation:
+  type: Lecture Slides                                       
+  title: "Introduction to Causal Inference"
+  authors:
+    - family-names: Vancak
+      given-names: Valentin
+  year: 2025
+#  doi: "10.5281/zenodo.XXXXXXX"
+#  publisher: "GitHub repository; slides archived on Zenodo"
